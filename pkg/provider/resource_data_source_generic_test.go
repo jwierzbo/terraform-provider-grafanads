@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"testing"
 
-	gapi "github.com/jwierzbo/terraform-provider-grafana-datasource/pkg/api"
+	gapi "github.com/jwierzbo/terraform-provider-grafanads/pkg/api"
 
 	"github.com/hashicorp/terraform/helper/resource"
 	"github.com/hashicorp/terraform/terraform"

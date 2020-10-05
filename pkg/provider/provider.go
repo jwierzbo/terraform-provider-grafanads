@@ -5,7 +5,7 @@ import (
 	"github.com/hashicorp/terraform/helper/schema"
 	"github.com/hashicorp/terraform/terraform"
 
-	gapi "github.com/jwierzbo/terraform-provider-grafana-datasource/pkg/api"
+	gapi "github.com/jwierzbo/terraform-provider-grafanads/pkg/api"
 )
 
 func Provider() terraform.ResourceProvider {

@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/hashicorp/terraform/plugin"
 
-	gprovider "github.com/jwierzbo/terraform-provider-grafana-datasource/pkg/provider"
+	gprovider "github.com/jwierzbo/terraform-provider-grafanads/pkg/provider"
 )
 
 func main() {
